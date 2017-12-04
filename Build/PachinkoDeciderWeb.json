@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "PachinkoDeciderWeb.data.unityweb",
+"asmCodeUrl": "PachinkoDeciderWeb.asm.code.unityweb",
+"asmMemoryUrl": "PachinkoDeciderWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "PachinkoDeciderWeb.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
